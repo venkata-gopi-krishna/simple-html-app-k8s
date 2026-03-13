@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: html-container
-        image: krishnabobbepalli/simple-html-app:2d2dd26d90afd62dce05a974638180bf0e9a9ea5
+        image: krishnabobbepalli/simple-html-app:483ed11528f15fb186710d065ef2e2f7f6988c34
         ports:
         - containerPort: 80
